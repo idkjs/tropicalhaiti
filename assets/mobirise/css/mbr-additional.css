@@ -1,0 +1,110 @@
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#menu-0 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-0.mbr-navbar--stuck .mbr-navbar__section {
+  background: #800080;
+}
+#menu-0 .mbr-navbar__section {
+  background: #800080;
+}
+#menu-0 .mbr-navbar__items a {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 20px;
+}
+#menu-0 .mbr-brand__name a {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 20px;
+}
+#header1-1 H1 {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 48px;
+}
+#header1-1 .btn {
+  font-family: 'Ubuntu', sans-serif;
+}
+#header1-1 P {
+  font-size: 30px;
+  text-align: left;
+  font-family: 'Ubuntu', sans-serif;
+}
+#footer1-2 P {
+  font-family: 'Ubuntu', sans-serif;
+}
+#features1-4 P {
+  font-family: 'Ubuntu', sans-serif;
+  text-align: center;
+  color: #000000;
+}
+#features1-4 H3 {
+  font-family: 'Ubuntu', sans-serif;
+}
+#features1-13 P {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+#features1-13 H3 {
+  font-family: 'Ubuntu', sans-serif;
+}
+#header3-11 P {
+  font-family: 'Ubuntu', sans-serif;
+}
+#header3-11 H3 {
+  font-family: 'Ubuntu', sans-serif;
+}
+#buttons1-14 .btn {
+  font-family: 'Ubuntu', sans-serif;
+}
+#social-buttons2-15 .mbr-header__text {
+  font-family: 'Ubuntu', sans-serif;
+  color: #ffffff;
+  font-size: 25px;
+}
+#msg-box4-11 .mbr-header__text {
+  color: #ffffff;
+  font-family: 'Ubuntu', sans-serif;
+}
+#msg-box4-11 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-11 .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-11 .btn {
+  font-family: 'Ubuntu', sans-serif;
+}
+#msg-box4-11 .mbr-article P {
+  font-family: 'Ubuntu', sans-serif;
+}
+#form1-16 .mbr-header__text {
+  font-family: 'Ubuntu', sans-serif;
+  color: #ffffff;
+}
+#form1-16 .btn {
+  font-family: 'Ubuntu', sans-serif;
+}
+#contacts2-17 P {
+  font-family: 'Ubuntu', sans-serif;
+  color: #ffffff;
+}
